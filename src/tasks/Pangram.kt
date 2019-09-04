@@ -2,20 +2,20 @@ package tasks
 
 val mark = BooleanArray(26)
 fun main() {
-    val str = "AbcDefGhiJkLmnOpqrstuvwXy"
+    val str = "AbcDefGhiJkLmnOpqrstuvwXyZ"
     println("$str ${checkPangram(str)}")
 }
 
 fun checkPangram(str: String): String {
-    for (i in 0 until str.length) {
-        when (str[i]) {
-            in 'A'..'Z' -> mark[str[i] - 'A'] = true
-            in 'a'..'z' -> mark[str[i] - 'a'] = true
+    for (char in str) {
+        when (char) {
+            in 'A'..'Z' -> mark[char - 'A'] = true
+            in 'a'..'z' -> mark[char - 'a'] = true
         }
     }
 
-    when {
-        mark.contains(false) -> return "is not a Panagram"
-        else -> return "is a Panagram"
-    }
+    if (mark.contains(false))
+        return "is not a Panagram"
+    return "is a Panagram"
+
 }

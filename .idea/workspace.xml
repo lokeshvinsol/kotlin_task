@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="467fe8c2-a2bf-4673-8a2d-32e298defc74" name="Default Changelist" comment="" />
+    <list default="true" id="467fe8c2-a2bf-4673-8a2d-32e298defc74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/LeapYearKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/LeapYearKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/PangramKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/PangramKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/LeapYear.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/LeapYear.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/Pangram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/Pangram.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +85,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.tasks.PangramKt" />
-        <item itemvalue="Kotlin.tasks.GFGKt" />
         <item itemvalue="Kotlin.tasks.LeapYearKt" />
+        <item itemvalue="Kotlin.tasks.GFGKt" />
       </list>
     </recent_temporary>
   </component>
