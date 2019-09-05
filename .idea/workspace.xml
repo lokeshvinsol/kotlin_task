@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.tasks.PangramKt">
+  <component name="RunManager" selected="Kotlin.tasks.LeapYearKt">
     <configuration name="tasks.GFGKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTasks" />
       <option name="VM_PARAMETERS" />
@@ -84,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.tasks.PangramKt" />
         <item itemvalue="Kotlin.tasks.LeapYearKt" />
+        <item itemvalue="Kotlin.tasks.PangramKt" />
         <item itemvalue="Kotlin.tasks.GFGKt" />
       </list>
     </recent_temporary>
@@ -108,7 +108,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

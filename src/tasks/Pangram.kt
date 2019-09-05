@@ -13,9 +13,7 @@ fun checkPangram(str: String): String {
             in 'a'..'z' -> mark[char - 'a'] = true
         }
     }
-
     if (mark.contains(false))
         return "is not a Panagram"
     return "is a Panagram"
-
 }
