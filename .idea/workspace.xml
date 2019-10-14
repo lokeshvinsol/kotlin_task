@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="467fe8c2-a2bf-4673-8a2d-32e298defc74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tasks/DoublyLinkList.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/LeapYearKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/LeapYearKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/PangramKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTasks/tasks/PangramKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/LeapYear.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/LeapYear.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/Pangram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/Pangram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinTasks/META-INF/KotlinTasks.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTasks/META-INF/KotlinTasks.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -42,7 +41,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.tasks.LeapYearKt">
+  <component name="RunManager" selected="Kotlin.tasks.DoublyLinkListKt">
+    <configuration name="tasks.DoublyLinkListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinTasks" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tasks.DoublyLinkListKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tasks.GFGKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTasks" />
       <option name="VM_PARAMETERS" />
@@ -84,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.tasks.DoublyLinkListKt" />
         <item itemvalue="Kotlin.tasks.LeapYearKt" />
         <item itemvalue="Kotlin.tasks.PangramKt" />
         <item itemvalue="Kotlin.tasks.GFGKt" />
@@ -115,5 +128,56 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>76</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>78</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>77</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>79</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>83</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/tasks/DoublyLinkList.kt</url>
+          <line>42</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
